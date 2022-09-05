@@ -1,0 +1,14 @@
+model,score
+AdaBoostClassifier(Default),0.8077360637087599
+LogisticRegression(Default),0.8077360637087599
+GradientBoostingClassifier(Default),0.8003412969283277
+Neural Network(Default),0.7997724687144482
+CatBoost(Default),0.7935153583617748
+RandomForest(Default),0.7872582480091013
+XGB(Default),0.7866894197952219
+KNeighbours(Default),0.7718998862343572
+ExtraTreesClassifier(Default),0.767349260523322
+Naive Bayes(Default),0.7480091012514221
+SVM(Default),0.7360637087599545
+DecisionTree(Default),0.7315130830489193
+MultinomialNB(Default),0.6530147895335608

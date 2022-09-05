@@ -1,0 +1,4 @@
+model,best_score,best_params
+"RandomForest(GridSearch,SMOTEENN)",0.7838452787258248,"{'criterion': 'gini', 'max_depth': 12, 'min_samples_leaf': 8, 'n_estimators': 100}"
+"ExtraTreesClassifier(GridSearch,SMOTEENN)",0.7684869169510807,{'criterion': 'log_loss'}
+"KNeighbours(GridSearch,SMOTEENN)",0.7360637087599545,"{'algorithm': 'ball_tree', 'n_neighbors': 5, 'weights': 'distance'}"

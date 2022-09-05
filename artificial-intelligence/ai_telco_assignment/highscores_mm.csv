@@ -1,0 +1,14 @@
+model,score
+AdaBoostClassifier(MinMaxScaler),0.8077360637087599
+LogisticRegression(MinMaxScaler),0.800910125142207
+GradientBoostingClassifier(MinMaxScaler),0.8003412969283277
+SVM(MinMaxScaler),0.7997724687144482
+MultinomialNB(MinMaxScaler),0.7992036405005688
+CatBoost(MinMaxScaler),0.7935153583617748
+XGB(MinMaxScaler),0.7866894197952219
+RandomForest(MinMaxScaler),0.7815699658703071
+Neural Network(MinMaxScaler),0.7724687144482366
+KNeighbours(MinMaxScaler),0.770193401592719
+ExtraTreesClassifier(MinMaxScaler),0.770193401592719
+Naive Bayes(MinMaxScaler),0.7485779294653014
+DecisionTree(MinMaxScaler),0.7246871444823664

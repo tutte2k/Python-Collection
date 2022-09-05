@@ -1,0 +1,14 @@
+model,score
+LogisticRegression(OverSample),0.7997724687144482
+CatBoost(OverSample),0.7935153583617748
+Neural Network(OverSample),0.7929465301478953
+GradientBoostingClassifier(OverSample),0.78839590443686
+XGB(OverSample),0.782707622298066
+AdaBoostClassifier(OverSample),0.7821387940841866
+RandomForest(OverSample),0.7718998862343572
+Naive Bayes(OverSample),0.7713310580204779
+ExtraTreesClassifier(OverSample),0.7656427758816837
+DecisionTree(OverSample),0.7212741751990899
+SVM(OverSample),0.7064846416382252
+KNeighbours(OverSample),0.7025028441410694
+MultinomialNB(OverSample),0.6592718998862344
